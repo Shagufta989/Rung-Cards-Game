@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d247eae1-b4c0-4b06-b946-e7474007a12b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Images/Icons/[Originals]/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Images/Icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Images/Icons/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Images/Icons/favicon1.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Images/Icons/favicon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Images/Icons/faviconh.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/Images/Icons/faviconh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlToRazorConverter.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlToRazorConverter/html-to-razor-converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlToRazorConverter/htmlFiles/avatars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlToRazorConverter/razorFiles/Avatars.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/01 - Rung-Cards-Game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/01 - Rung-Cards-Game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gVOdjW13r9DXnSGrQu1Cm2AaJ5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.classes.executor": "Run",
+    "Python.comments.executor": "Run",
+    "Python.html-to-razor-converter.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pdfdownloader.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Rebasing main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "G:/Practice/Rough",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Projects\01 - Rung-Cards-Game" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d247eae1-b4c0-4b06-b946-e7474007a12b" name="Changes" comment="" />
+      <created>1715779370860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715779370860</updated>
+      <workItem from="1715779372575" duration="665000" />
+      <workItem from="1715784071359" duration="10420000" />
+      <workItem from="1715857980017" duration="14457000" />
+      <workItem from="1715878924668" duration="5851000" />
+      <workItem from="1715894119968" duration="851000" />
+      <workItem from="1715901949985" duration="1738000" />
+      <workItem from="1715932743854" duration="7376000" />
+      <workItem from="1715943833396" duration="8466000" />
+      <workItem from="1715957829286" duration="11202000" />
+      <workItem from="1716035557826" duration="6463000" />
+      <workItem from="1716060018368" duration="15416000" />
+      <workItem from="1716128179634" duration="13322000" />
+      <workItem from="1716306338085" duration="746000" />
+      <workItem from="1716326361047" duration="7489000" />
+      <workItem from="1716334568981" duration="600000" />
+      <workItem from="1716356949618" duration="5974000" />
+      <workItem from="1718043759411" duration="49000" />
+      <workItem from="1728140893032" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/01___Rung_Cards_Game$comments.coverage" NAME="comments Coverage Results" MODIFIED="1716332771805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01___Rung_Cards_Game$classes.coverage" NAME="classes Coverage Results" MODIFIED="1715958307619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01___Rung_Cards_Game$pdfdownloader.coverage" NAME="pdfdownloader Coverage Results" MODIFIED="1716362936212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01___Rung_Cards_Game$main.coverage" NAME="main Coverage Results" MODIFIED="1716330106937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
